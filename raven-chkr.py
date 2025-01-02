@@ -1,4 +1,5 @@
 import os
+import write
 from datetime import *
 import tkinter as tk
 from tkinter import filedialog, Tk
